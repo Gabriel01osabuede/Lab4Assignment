@@ -1,0 +1,16 @@
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\bin\Debug\net5.0\Lab4Assignment.exe
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\bin\Debug\net5.0\Lab4Assignment.deps.json
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\bin\Debug\net5.0\Lab4Assignment.runtimeconfig.json
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\bin\Debug\net5.0\Lab4Assignment.runtimeconfig.dev.json
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\bin\Debug\net5.0\Lab4Assignment.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\bin\Debug\net5.0\ref\Lab4Assignment.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\bin\Debug\net5.0\Lab4Assignment.pdb
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\obj\Debug\net5.0\Lab4Assignment.csprojAssemblyReference.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\obj\Debug\net5.0\Lab4Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\obj\Debug\net5.0\Lab4Assignment.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\obj\Debug\net5.0\Lab4Assignment.AssemblyInfo.cs
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\obj\Debug\net5.0\Lab4Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\obj\Debug\net5.0\Lab4Assignment.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\obj\Debug\net5.0\ref\Lab4Assignment.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\obj\Debug\net5.0\Lab4Assignment.pdb
+C:\Users\Dell Latitude 6430u\Desktop\c#DevelopmentSpace\c#_classes\labAssignmentFolder\Lab4Assignment\obj\Debug\net5.0\Lab4Assignment.genruntimeconfig.cache
